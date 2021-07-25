@@ -1,0 +1,13 @@
+C:\Users\Safal\Desktop\Practice\PropertiesPractice\PropertiesPractice\bin\Debug\netcoreapp3.1\PropertiesPractice.exe
+C:\Users\Safal\Desktop\Practice\PropertiesPractice\PropertiesPractice\bin\Debug\netcoreapp3.1\PropertiesPractice.deps.json
+C:\Users\Safal\Desktop\Practice\PropertiesPractice\PropertiesPractice\bin\Debug\netcoreapp3.1\PropertiesPractice.runtimeconfig.json
+C:\Users\Safal\Desktop\Practice\PropertiesPractice\PropertiesPractice\bin\Debug\netcoreapp3.1\PropertiesPractice.runtimeconfig.dev.json
+C:\Users\Safal\Desktop\Practice\PropertiesPractice\PropertiesPractice\bin\Debug\netcoreapp3.1\PropertiesPractice.dll
+C:\Users\Safal\Desktop\Practice\PropertiesPractice\PropertiesPractice\bin\Debug\netcoreapp3.1\PropertiesPractice.pdb
+C:\Users\Safal\Desktop\Practice\PropertiesPractice\PropertiesPractice\obj\Debug\netcoreapp3.1\PropertiesPractice.csproj.AssemblyReference.cache
+C:\Users\Safal\Desktop\Practice\PropertiesPractice\PropertiesPractice\obj\Debug\netcoreapp3.1\PropertiesPractice.AssemblyInfoInputs.cache
+C:\Users\Safal\Desktop\Practice\PropertiesPractice\PropertiesPractice\obj\Debug\netcoreapp3.1\PropertiesPractice.AssemblyInfo.cs
+C:\Users\Safal\Desktop\Practice\PropertiesPractice\PropertiesPractice\obj\Debug\netcoreapp3.1\PropertiesPractice.csproj.CoreCompileInputs.cache
+C:\Users\Safal\Desktop\Practice\PropertiesPractice\PropertiesPractice\obj\Debug\netcoreapp3.1\PropertiesPractice.dll
+C:\Users\Safal\Desktop\Practice\PropertiesPractice\PropertiesPractice\obj\Debug\netcoreapp3.1\PropertiesPractice.pdb
+C:\Users\Safal\Desktop\Practice\PropertiesPractice\PropertiesPractice\obj\Debug\netcoreapp3.1\PropertiesPractice.genruntimeconfig.cache

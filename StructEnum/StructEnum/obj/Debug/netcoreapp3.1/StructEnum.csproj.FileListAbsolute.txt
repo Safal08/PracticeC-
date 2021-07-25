@@ -1,0 +1,13 @@
+C:\Users\Safal\Desktop\Practice\StructEnum\StructEnum\bin\Debug\netcoreapp3.1\StructEnum.exe
+C:\Users\Safal\Desktop\Practice\StructEnum\StructEnum\bin\Debug\netcoreapp3.1\StructEnum.deps.json
+C:\Users\Safal\Desktop\Practice\StructEnum\StructEnum\bin\Debug\netcoreapp3.1\StructEnum.runtimeconfig.json
+C:\Users\Safal\Desktop\Practice\StructEnum\StructEnum\bin\Debug\netcoreapp3.1\StructEnum.runtimeconfig.dev.json
+C:\Users\Safal\Desktop\Practice\StructEnum\StructEnum\bin\Debug\netcoreapp3.1\StructEnum.dll
+C:\Users\Safal\Desktop\Practice\StructEnum\StructEnum\bin\Debug\netcoreapp3.1\StructEnum.pdb
+C:\Users\Safal\Desktop\Practice\StructEnum\StructEnum\obj\Debug\netcoreapp3.1\StructEnum.csproj.AssemblyReference.cache
+C:\Users\Safal\Desktop\Practice\StructEnum\StructEnum\obj\Debug\netcoreapp3.1\StructEnum.AssemblyInfoInputs.cache
+C:\Users\Safal\Desktop\Practice\StructEnum\StructEnum\obj\Debug\netcoreapp3.1\StructEnum.AssemblyInfo.cs
+C:\Users\Safal\Desktop\Practice\StructEnum\StructEnum\obj\Debug\netcoreapp3.1\StructEnum.csproj.CoreCompileInputs.cache
+C:\Users\Safal\Desktop\Practice\StructEnum\StructEnum\obj\Debug\netcoreapp3.1\StructEnum.dll
+C:\Users\Safal\Desktop\Practice\StructEnum\StructEnum\obj\Debug\netcoreapp3.1\StructEnum.pdb
+C:\Users\Safal\Desktop\Practice\StructEnum\StructEnum\obj\Debug\netcoreapp3.1\StructEnum.genruntimeconfig.cache
