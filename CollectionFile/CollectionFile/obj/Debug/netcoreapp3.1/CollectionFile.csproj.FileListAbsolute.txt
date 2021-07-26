@@ -1,0 +1,13 @@
+C:\Users\Safal\Desktop\Practice\CollectionFile\CollectionFile\bin\Debug\netcoreapp3.1\CollectionFile.exe
+C:\Users\Safal\Desktop\Practice\CollectionFile\CollectionFile\bin\Debug\netcoreapp3.1\CollectionFile.deps.json
+C:\Users\Safal\Desktop\Practice\CollectionFile\CollectionFile\bin\Debug\netcoreapp3.1\CollectionFile.runtimeconfig.json
+C:\Users\Safal\Desktop\Practice\CollectionFile\CollectionFile\bin\Debug\netcoreapp3.1\CollectionFile.runtimeconfig.dev.json
+C:\Users\Safal\Desktop\Practice\CollectionFile\CollectionFile\bin\Debug\netcoreapp3.1\CollectionFile.dll
+C:\Users\Safal\Desktop\Practice\CollectionFile\CollectionFile\bin\Debug\netcoreapp3.1\CollectionFile.pdb
+C:\Users\Safal\Desktop\Practice\CollectionFile\CollectionFile\obj\Debug\netcoreapp3.1\CollectionFile.csproj.AssemblyReference.cache
+C:\Users\Safal\Desktop\Practice\CollectionFile\CollectionFile\obj\Debug\netcoreapp3.1\CollectionFile.AssemblyInfoInputs.cache
+C:\Users\Safal\Desktop\Practice\CollectionFile\CollectionFile\obj\Debug\netcoreapp3.1\CollectionFile.AssemblyInfo.cs
+C:\Users\Safal\Desktop\Practice\CollectionFile\CollectionFile\obj\Debug\netcoreapp3.1\CollectionFile.csproj.CoreCompileInputs.cache
+C:\Users\Safal\Desktop\Practice\CollectionFile\CollectionFile\obj\Debug\netcoreapp3.1\CollectionFile.dll
+C:\Users\Safal\Desktop\Practice\CollectionFile\CollectionFile\obj\Debug\netcoreapp3.1\CollectionFile.pdb
+C:\Users\Safal\Desktop\Practice\CollectionFile\CollectionFile\obj\Debug\netcoreapp3.1\CollectionFile.genruntimeconfig.cache
