@@ -1,0 +1,8 @@
+Bipin,   Bhattarai,   Kritipur
+Safal,   Mahat,   Thankot
+Saugat,   Tiwari,   Dhading
+Bibesh,   Shrestha,   Bafal
+Bidur,   Dai,   Ramkot
+Suraj,   Bohara,   Kalanki
+Sushmita,  Ghimire,  Macchapokhari
+Sushmita, Ghimire, Macchapokhari
