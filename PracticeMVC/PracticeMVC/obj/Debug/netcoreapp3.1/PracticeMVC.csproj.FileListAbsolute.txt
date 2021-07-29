@@ -37,3 +37,4 @@ C:\Users\Safal\Desktop\Practice\PracticeMVC\PracticeMVC\obj\Debug\netcoreapp3.1\
 C:\Users\Safal\Desktop\Practice\PracticeMVC\PracticeMVC\obj\Debug\netcoreapp3.1\PracticeMVC.csproj.CopyComplete
 C:\Users\Safal\Desktop\Practice\PracticeMVC\PracticeMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
 C:\Users\Safal\Desktop\Practice\PracticeMVC\PracticeMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\Safal\Desktop\Practice\PracticeMVC\PracticeMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Delete.cshtml.g.cs
