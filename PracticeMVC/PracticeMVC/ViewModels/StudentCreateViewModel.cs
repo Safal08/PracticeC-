@@ -10,7 +10,8 @@ namespace PracticeMVC.ViewModels //DTO(Data Transfer Object) //If model doesn't 
     {
         public int Id { get; set; }
 
-        [Required]    
+        [Required]
+        [MaxLength(200)]
         public string Name { get; set; }
         [Required]
         public string Address { get; set; }
