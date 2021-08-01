@@ -62,7 +62,8 @@ namespace PracticeMVC.Repository
             {
                 string query = @"Select * From Students;";
 
-                SqlCommand cmd = new SqlCommand(query, con);                
+                SqlCommand cmd = new SqlCommand(query, con);
+                
 
                 con.Open(); //THis is related to connection class
 
@@ -95,6 +96,7 @@ namespace PracticeMVC.Repository
                 string query = @"Select * From Students where Id= @Id;";
 
                 SqlCommand cmd = new SqlCommand(query, con);
+                cmd.Parameters.AddWithValue("@Id", Id);
 
                 con.Open(); //THis is related to connection class
 
