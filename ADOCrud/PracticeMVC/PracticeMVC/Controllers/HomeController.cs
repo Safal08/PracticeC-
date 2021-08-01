@@ -28,7 +28,8 @@ namespace PracticeMVC.Controllers
         public IActionResult Index() //Action ko name ra view ko name same huna parxa
         {
             var model = _studentRepository.GetAllStudents();
-            return View(model);
+            return View(model);            
+
         }
 
 
@@ -60,6 +61,7 @@ namespace PracticeMVC.Controllers
             }
 
             return View();
+           
         }
 
         [HttpGet]
